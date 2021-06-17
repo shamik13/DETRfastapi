@@ -27,7 +27,7 @@ B. Using venv / normal python environment:
       cd fastapi/app
       uvicorn main:app --reload
       ```
-  Now the API endpoint should be live at http://localhost:8000
+  Now the API endpoint should be live at http://127.0.0.1:8000
 
 # How to store big model files using DVC + Azure:
 
