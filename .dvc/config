@@ -1,0 +1,4 @@
+[core]
+    remote = fastapi
+['remote "fastapi"']
+    url = azure://fastapi/storage
